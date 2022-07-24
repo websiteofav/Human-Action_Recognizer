@@ -22,7 +22,7 @@ Dataset - [https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-
 
 ## We are using transfer learning here with tf hub model https://tfhub.dev/google/imagenet/mobilenet_v2_130_224/classification/5 
 
-   Metrics of the [model](https://drive.google.com/file/d/11KeF9ac0v386CAQ0R_iL8kMbYBRAF8h9/view?usp=sharing)
+   ### Metrics of the [model](https://drive.google.com/file/d/11KeF9ac0v386CAQ0R_iL8kMbYBRAF8h9/view?usp=sharing)
    
    * Training Loss = 0.2132 
    * Training Accuracy = 95.33%  
