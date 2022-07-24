@@ -4,6 +4,6 @@ Dataset - [https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-
 
 Predciting what action a certain user is doing amon the given 20 classes 
 
-  ..*calling 
-  ..*clapping 
+  * calling 
+  ..* clapping 
   ..*cycling’, ’dancing’, ‘drinking’, ‘eating’, ‘fighting’, ‘hugging’, ‘laughing’, ‘listeningtomusic’, ‘running’, ‘sitting’, ‘sleeping’, texting’, ‘using_laptop
