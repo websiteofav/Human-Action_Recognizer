@@ -2,7 +2,7 @@
 
 Dataset - [https://www.kaggle.com/datasets/meetnagadia/human-action-recognition-har-dataset]
 
-## Predciting what action a certain user is doing amon the given 15 classes 
+## Prediciting what action a certain user is doing amon the given 15 classes 
 
   * calling 
   * clapping 
